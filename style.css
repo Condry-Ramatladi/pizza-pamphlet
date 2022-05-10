@@ -14,6 +14,7 @@ body {
 }
 
 .main{
+    display: inline;
     border-style: solid;
     background-color: lightskyblue;
     padding: 1em;
@@ -25,6 +26,7 @@ body {
 }
 
 .pizza-1{
+    border-style: solid;
     background-color: chartreuse;
     padding: 1em;
     margin: 1em;
