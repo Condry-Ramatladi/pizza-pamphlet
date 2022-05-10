@@ -1,5 +1,5 @@
 body {
-    background-color:blueviolet;
+    background-color:rgba(101, 226, 43, 0.623);
 }
 
 .imenu li{
@@ -69,6 +69,7 @@ body {
 
 .footer{
     width: 100%;
+    padding: 4em;
     display: inline-flex;
     background-color:greenyellow;
 }
