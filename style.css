@@ -3,6 +3,7 @@ body {
 }
 
 .header{
+    text-align: center;
     background-color: lightskyblue;
     padding: 1em;
     margin: 1em;
