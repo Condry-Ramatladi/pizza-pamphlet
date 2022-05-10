@@ -20,9 +20,7 @@ body {
     overflow: auto;
 }
 
-
 .pizz-1{
-    display: block;
     border-style: solid;
     background-color: chartreuse;
     padding: 1em;
