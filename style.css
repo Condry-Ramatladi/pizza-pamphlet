@@ -42,6 +42,10 @@ body {
     margin: 1em;
 }
 
+.pizpic{
+    float: right;
+}
+
 .footer{
     background-color: lightskyblue;
 }
