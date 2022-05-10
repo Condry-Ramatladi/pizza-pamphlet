@@ -1,3 +1,42 @@
 body {
     background-color: lightskyblue;
 }
+
+.header{
+    background-color: lightskyblue;
+    padding: 1em;
+    margin: 1em;
+}
+
+.main{
+    border-style: solid;
+    background-color: lightskyblue;
+    padding: 1em;
+    margin: 1em;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.pizza-1{
+    background-color: chartreuse;
+    padding: 1em;
+    margin: 1em;
+}
+
+.pizza-2{
+    background-color: chocolate;
+    padding: 1em;
+    margin: 1em;
+}
+
+.pizza-3{
+    background-color:cornflowerblue;
+    padding: 1em;
+    margin: 1em;
+}
+
+.footer{
+    background-color: lightskyblue;
+}
