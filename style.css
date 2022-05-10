@@ -20,6 +20,11 @@ body {
     overflow: auto;
 }
 
+@media(max-width:960 ){
+    .main{
+        display: inline-block;
+    }
+}
 .pizza-1{
     border-style: solid;
     background-color:bisque;
