@@ -68,6 +68,7 @@ body {
 }
 
 .footer{
-    display: flex;
+    width: 100%;
+    display: inline-flex;
     background-color:greenyellow;
 }
