@@ -21,7 +21,7 @@ body {
 }
 
 
-.pizza{
+.pizz-1{
     display: block;
     border-style: solid;
     background-color: chartreuse;
@@ -29,7 +29,6 @@ body {
     margin: 1em;
 }
 
-/*
 .pizza-2{
     border-style: solid;
     background-color: chocolate;
@@ -42,7 +41,7 @@ body {
     background-color:cornflowerblue;
     padding: 1em;
     margin: 1em;
-}*/
+}
 
 .pizpic{
     float: none;
