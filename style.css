@@ -68,8 +68,11 @@ body {
 }
 
 .footer{
-    border-style: solid;
     width: 100%;
     display: inline-flex;
     background-color:greenyellow;
+}
+
+.one{
+    flex: 1;
 }
