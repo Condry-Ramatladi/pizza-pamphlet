@@ -14,16 +14,12 @@ body {
 }
 
 .main{
-    display: inline;
-    border-style: solid;
-    background-color: lightskyblue;
+    display: flex;
     padding: 1em;
     margin: 1em;
-}
-
-.clearfix{
     overflow: auto;
 }
+
 
 .pizza-1{
     border-style: solid;
@@ -33,12 +29,14 @@ body {
 }
 
 .pizza-2{
+    border-style: solid;
     background-color: chocolate;
     padding: 1em;
     margin: 1em;
 }
 
 .pizza-3{
+    border-style: solid;
     background-color:cornflowerblue;
     padding: 1em;
     margin: 1em;
@@ -46,6 +44,7 @@ body {
 
 .pizpic{
     float: right;
+
 }
 
 .footer{
